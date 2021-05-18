@@ -1,1 +1,1 @@
-# data_scraping_and_databases
+In this repository I intended to practise scraping data from websites and storing data in Databases using MySQL Database server. 
